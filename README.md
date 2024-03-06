@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/21/e2/e7/21e2e73eb9a9984e3b407328f65f5e5b.gif" />
 </p>
 
-<h1 align="center">Hi there👋, I'm Artyom Plokhikh</h1>
+<h1 align="center">Hello there👋, I'm Artyom Plokhikh</h1>
 <h3 align="center">A passionate web developer from Kazakhstan</h3>
 
 - 👨‍💻 I’m studying at [ČVUT FEL](https://fel.cvut.cz/cs/studijni-programy/sit-softwarove-inzenyrstvi-a-technologie)
