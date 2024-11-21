@@ -3,10 +3,8 @@
 </p>
 
 <h1 align="center">Hello there👋, I'm Artyom Plokhikh</h1>
-<h3 align="center">A passionate web developer from Kazakhstan</h3>
 
 - 👨‍💻 I’m studying at [ČVUT FEL](https://fel.cvut.cz/cs/studijni-programy/sit-softwarove-inzenyrstvi-a-technologie)
-- 🌱 I’m currently learning **Java**
 
 <br>
 
